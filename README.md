@@ -47,7 +47,7 @@ Projeto feito com o aprendizado adquirido no Bootcamp GoStack da <a href="https:
 
 > **src/modules/users/services/SendForgotPasswordEmailService.ts** => ajustar o subject
 
-> **ormconfig.json** => ajustar as configurações do banco de dados
+> **ormconfig_example.json** => ajustar as configurações do banco de dados **e renomerar o arquivo somente para ormconfig.json**.
 
 ## :movie_camera: Veja funcionando
 
