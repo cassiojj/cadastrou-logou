@@ -8,7 +8,7 @@
 
 ## :computer: Projeto
 
-Hora do evento é uma plataforma intermediadora entre empresas e estudantes para cadastro, divulgação e participação nos mais variados eventos. Este projeto foi desenvolvido para a disciplina de Projetos Integrados do 3º Semestre do curso de Ciência da computação (2020).
+Este projeto contempla um completo fluxo de cadastro e autenticação de usuário, com direito a troca de senha :wink:.
 
 ## :gear: Contruído com:
 
