@@ -49,4 +49,6 @@ Projeto feito com o aprendizado adquirido no Bootcamp GoStack da <a href="https:
 
 > **ormconfig.json** => ajustar as configurações do banco de dados
 
+## :movie_camera: Veja funcionando
 
+<img src="https://github.com/cassiojj/cadastrou-logou/blob/main/assets/cadastrouLogou.gif">
